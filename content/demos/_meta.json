@@ -1,0 +1,26 @@
+[
+  {
+    "path": "/demos",
+    "text": "Service Map Demos"
+  },
+  {
+    "path": "/demos/1115th",
+    "text": "1115th Engineer Combat Group"
+  },
+  {
+    "path": "/demos/iv_corps",
+    "text": "IV Corps Operations in the PO Valley"
+  },
+  {
+    "path": "/demos/malformed-insignias",
+    "text": "Symbolic Alterations: Reimagined Insignias of Axis Divisions"
+  },
+  {
+    "path": "/demos/geospatial-overlay",
+    "text": "Creating Geospatial Overlays"
+  },
+  {
+    "path": "/demos/549-aaa-battalion",
+    "text": "Following Movements of the 549 AAA Battalion"
+  }
+]
