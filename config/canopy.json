@@ -1,6 +1,6 @@
 {
-  "collection": "https://markpbaggett.github.io/static_iiif/collections/sesq-new.json",
-  "devCollection": "https://markpbaggett.github.io/static_iiif/collections/sesq-new.json",
+  "collection": "https://markpbaggett.github.io/corpora-service-maps/collections/collection.json",
+  "devCollection": "https://markpbaggett.github.io/corpora-service-maps/collections/collection.json",
   "metadata": ["unit"],
   "theme": {
     "defaultTheme": "light",
